@@ -10,3 +10,5 @@ Quarto! is a boardgame consisting of a 4x4 board and 16 different pieces. Each p
 This implementation was written in Visual Basic 6 and OpenGL.
 
 Works best under Windows XP.
+
+Developed in 2005-2006, published in 2019.
